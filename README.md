@@ -5,6 +5,13 @@
 - **Disable Auto-Update on Mac OS and Windows**
 - **Enable Auto-Update on Mac OS and Windows**
 
+## Motivation
+
+Some extensions will be disabled due to the Chrome upgrade.
+
+For example:
+uBlock Origin - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
 ### Toggle Google Chrome Auto-Update (Mac OS)
 
 This script allows you to enable or disable automatic updates for Google Chrome on macOS by modifying the Keystone agent configuration.
